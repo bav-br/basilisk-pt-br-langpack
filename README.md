@@ -1,4 +1,4 @@
-### Pacote de idiomas em Português Bradil para o navegador Basilisk
+### Pacote de idiomas em Português Brasil para o navegador Basilisk
 Baseado no pacote de idiomas russo feito por Enobarbous
 
 Tradução feita com base nos arquivos de idioma pt-BR do Firefox 52 e Pale Moon
