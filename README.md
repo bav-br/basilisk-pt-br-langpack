@@ -4,8 +4,8 @@ Baseado no pacote de idiomas russo feito por Enobarbous
 Este repositório contém arquivos para o pacote de idioma Português Brasil para o navegador ![Basilisk ](https://www.basilisk-browser.org/), e derivados, como o ![roytam1's iceape-UXP browser](https://rtfreesoft.blogspot.com/search/label/browser), baseados no Firefox 52.
 
 ## Requisitos para instalar e usar este pacote de idiomas
-- Versão [mais recente](https://www.basilisk-browser.org/download.html) do Basilisk oficial e/
-- Ou a versão [mais recente](https://o.rthost.win/basilisk/index.php?sort=date&order=desc) do Serpent
+- Versão [mais recente](https://www.basilisk-browser.org/download.html) do Basilisk oficial (Windows 7 ou superior, além de MAC e Linux) e/
+- Ou a versão [mais recente](https://o.rthost.win/basilisk/index.php?sort=date&order=desc) do Serpent (Windows XP ou superior)
 
 **Instalação:**
 1. Baixe a versão de tradução desejada na página _Releases_ (observando a qual navegador se aplica)
