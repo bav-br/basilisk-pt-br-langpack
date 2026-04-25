@@ -1,5 +1,4 @@
 ### Pacote de idiomas em Português Brasil para o navegador Basilisk
-Baseado no pacote de idiomas russo feito por Enobarbous
 
 Este repositório contém arquivos para o pacote de idioma Português Brasil para o navegador ![Basilisk ](https://www.basilisk-browser.org/), e derivados, como o ![roytam1's iceape-UXP browser](https://rtfreesoft.blogspot.com/search/label/browser), baseados no Firefox 52.
 
