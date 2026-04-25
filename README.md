@@ -20,5 +20,5 @@ Este repositório contém arquivos para o pacote de idioma Português Brasil par
 
 ### Agradecimentos
 - Ao usuário Enobarbous, que fez o pacote de idiomas russo e mantém o repositório, no qual eu me baseei para desenvolver a versão brasileira do pacote de idiomas e do repositório.
-- À Moonchild Productions, que desenvolveu originalmente o Basilisk e desenvolve o Pale Moon, pelo esforço em manter o motor de renderização Goanna e o projeto Unified XUL Plataform
+- À Moonchild Productions, que desenvolveu originalmente o Basilisk e mantém o Pale Moon, pelo esforço em manter o motor de renderização Goanna e o projeto Unified XUL Plataform
 - Ao usuário roytam1, desenvolvedor do Serpent / New Moon, por manter estes e outros navegadores baseados no projeto Unified XUL Plataform visando o suporte a sistemas legados.
